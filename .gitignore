@@ -20,9 +20,6 @@ pip-wheel-metadata/
 # Ignorar arquivos de configuração do Jupyter Notebook
 .ipynb_checkpoints/
 
-# Ignorar o arquivo CSV gerado durante os testes ou execução
-*.csv
-
 # Ignorar arquivos temporários do sistema operacional
 .DS_Store
 Thumbs.db
